@@ -44,7 +44,7 @@ namespace Eva4Web
             this.medidorGrilla();
         }
 
-        protected void tipoMedidorDDl_SelectedIndexChanged(object sender, EventArgs e)
+        protected void tipoMedidorDDL_SelectedIndexChanged(object sender, EventArgs e)
         {
             this.medidorGrilla();
         }
